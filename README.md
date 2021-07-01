@@ -1,2 +1,2 @@
 # mongo-db-spring-boot-tutorial
-# mongo dbCRUD operations with spring boot
+# mongo-db CRUD operations with spring boot
